@@ -1,11 +1,13 @@
 ---
-title: "slntwang"
+title: "martin"
 ---
 
-This is a Quarto website.
+project:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+type: website
 
-```{r}
-1 + 1
-```
+output-dir: docs
+
+use_git()
+
+use_github()

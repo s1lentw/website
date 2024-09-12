@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "martin",
+    "section": "",
+    "text": "project:\ntype: website\noutput-dir: docs\nuse_git()\nuse_github()"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "martin wang uoft"
+  }
+]
